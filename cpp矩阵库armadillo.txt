@@ -1,13 +1,13 @@
 #include <armadillo>
 using namespace arma;
-1 vc++Ä¿Â¼ 
-°üº¬Ä¿Â¼
+1 vc++ç›®å½• 
+åŒ…å«ç›®å½•
 E:\Edge Downloads\armadillo-10.3.0\armadillo-10.3.0\include
-¿âÄ¿Â¼
+åº“ç›®å½•
 E:\Edge Downloads\armadillo-10.3.0\armadillo-10.3.0\examples\lib_win64
-2 Á´½ÓÆ÷
-¸½¼ÓÒÀÀµÏî
+2 é“¾æ¥å™¨
+è¾“å…¥\é™„åŠ ä¾èµ–é¡¹
 E:\Edge Downloads\armadillo-10.3.0\armadillo-10.3.0\examples\lib_win64\libopenblas.lib
-3 Ìí¼ÓDLLÓëlibµ½ÏîÄ¿ÎÄ¼şÏÂ£¨Ó¦¸Ã²»ĞèÒª£©
+3 æ·»åŠ DLLä¸libåˆ°é¡¹ç›®æ–‡ä»¶ä¸‹ï¼ˆåº”è¯¥ä¸éœ€è¦ï¼‰
 libopenblas.dll
 libopenblas.lib
