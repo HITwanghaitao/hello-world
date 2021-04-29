@@ -1,0 +1,13 @@
+#include <armadillo>
+using namespace arma;
+1 vc++目录 
+包含目录
+E:\Edge Downloads\armadillo-10.3.0\armadillo-10.3.0\include
+库目录
+E:\Edge Downloads\armadillo-10.3.0\armadillo-10.3.0\examples\lib_win64
+2 链接器
+附加依赖项
+E:\Edge Downloads\armadillo-10.3.0\armadillo-10.3.0\examples\lib_win64\libopenblas.lib
+3 添加DLL与lib到项目文件下（应该不需要）
+libopenblas.dll
+libopenblas.lib
